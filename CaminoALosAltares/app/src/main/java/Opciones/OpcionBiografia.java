@@ -173,63 +173,63 @@ public class OpcionBiografia
                 break;
 
             case "Siervo de Dios, Mons. Sixto Sosa":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Sierva de Dios, Georgina Josefa Febres Cordero":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Siervo de Dios, Mons. Arturo Celestino Álvarez":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Sierva de Dios, Madre Marcelina de San José Aveledo Ostos":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Siervo de Dios, Tomás Antonio Sanmiguel Díaz":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Siervo de Dios, Arístides Calvani Silva":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Sierva de Dios, Adelia Abbo Fontana de Calvani":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Siervo de Dios, Luis Rafael Tinoco Yépez":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Sierva de Dios, Hna. María Israel Bogotá Baquero":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Siervo de Dios, Tomás Morales Pérez":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Justo Vicente López Aveledo":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Jesús María Pellín":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Marcos Sergio Godoy":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Domingo Roa Perez":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
 
             case "Mons. Eduardo Boza Masdival":
-                imagen = R.drawable.images;
+                imagen = R.drawable.plant;
                 break;
         }
 
