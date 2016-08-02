@@ -1,15 +1,15 @@
 <resources>
-    <string name="app_name">CaminoALosAltaresV3</string>
+    <string name="app_name" translatable="false">CaminoALosAltaresV3</string>
 
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="hello_world" translatable="false">Hello world!</string>
+    <string name="action_settings" translatable="false">Settings</string>
     <string name="OpcionBiografia">Biografía</string>
     <string name="OpcionSantuario">Santuario</string>
     <string name="OpcionOracion">Oración</string>
-    <string name="OpcionMultimedia">Multimedia</string>
+    <string name="OpcionMultimedia" translatable="false">Multimedia</string>
     <string name="OpcionUbicacion">Ubicación</string>
     <string name="OpcionContacto">Contacto</string>
     <string name="OpcionDonativo">Donativos</string>
-    <string name="OpcionPensamiento">Pensamiento</string>
-    <string name="OpcionProceso">Proceso</string>
+    <string name="OpcionPensamiento" translatable="false">Pensamiento</string>
+    <string name="OpcionProceso" translatable="false">Proceso</string>
 </resources>
