@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="OpcionBiografia">Biography</string>
+    <string name="OpcionContacto">Contact</string>
+    <string name="OpcionDonativo">Donative</string>
+    <string name="OpcionOracion">Prayer</string>
+    <string name="OpcionSantuario">Sanctuary</string>
+    <string name="OpcionUbicacion">Location</string>
+</resources>

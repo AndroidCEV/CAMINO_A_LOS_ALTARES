@@ -12,8 +12,11 @@ public class GridActivity extends Activity{
     GridView gv;
     Context context;
     ArrayList prgmName;
-    public static String [] prgmNameList={"Biografía","Proceso","Oración","Imágenes","Pensamiento","Testimonios","Contacto","Donativos"};
-    public static int [] prgmImages={R.drawable.biografia,R.drawable.proceso,R.drawable.oracion,R.drawable.imagenes,R.drawable.pensamiento,R.drawable.testimonio,R.drawable.contacto,R.drawable.donativo};
+    public String[] prgmNameList={getString(R.string.OpcionBiografia), getString(R.string.OpcionProceso), getString(R.string.OpcionOracion),
+                                  getString(R.string.OpcionMultimedia), getString(R.string.OpcionPensamiento),getString(R.string.OpcionSantuario),
+                                  getString(R.string.OpcionContacto), getString(R.string.OpcionUbicacion), getString(R.string.OpcionDonativo)};
+    public int[] prgmImages={R.drawable.biografia,R.drawable.proceso,R.drawable.oracion,R.drawable.imagenes,R.drawable.pensamiento,
+                             R.drawable.testimonio,R.drawable.contacto,R.drawable.donativo, R.drawable.plant};
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
